@@ -68,12 +68,12 @@
 
 .section-title-primary {
   font-weight: 700 !important;
-  color: #3d9dd6 !important;
+  color: #84bf42 !important;
 }
 
 .uk-section-primary,
 .uk-background-primary {
-  background-color: #3d9dd6 !important;
+  background-color: #84bf42 !important;
 }
 
 .uk-section-success,
@@ -88,5 +88,5 @@
 
 .uk-section-secondary,
 .uk-background-secondary {
-  background-color: #00243e !important;
+  background-color: #37474f !important;
 }
