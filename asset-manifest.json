@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/flipside/static/css/main.b98496ba.chunk.css",
+    "main.css": "/flipside/static/css/main.c95d7da8.chunk.css",
     "main.js": "/flipside/static/js/main.c933ef65.chunk.js",
     "main.js.map": "/flipside/static/js/main.c933ef65.chunk.js.map",
     "runtime~main.js": "/flipside/static/js/runtime~main.dcb2d11b.js",
@@ -8,9 +8,9 @@
     "static/js/2.72de4b6c.chunk.js": "/flipside/static/js/2.72de4b6c.chunk.js",
     "static/js/2.72de4b6c.chunk.js.map": "/flipside/static/js/2.72de4b6c.chunk.js.map",
     "index.html": "/flipside/index.html",
-    "precache-manifest.def186506cb103fe1e786652e79f9bbe.js": "/flipside/precache-manifest.def186506cb103fe1e786652e79f9bbe.js",
+    "precache-manifest.0bd87c5c72da1a0d1c82c96fd9a34909.js": "/flipside/precache-manifest.0bd87c5c72da1a0d1c82c96fd9a34909.js",
     "service-worker.js": "/flipside/service-worker.js",
-    "static/css/main.b98496ba.chunk.css.map": "/flipside/static/css/main.b98496ba.chunk.css.map",
+    "static/css/main.c95d7da8.chunk.css.map": "/flipside/static/css/main.c95d7da8.chunk.css.map",
     "static/media/App.css": "/flipside/static/media/Weave.d9d7c01b.png",
     "static/media/flipside-logo.svg": "/flipside/static/media/flipside-logo.8601b15a.svg"
   }
