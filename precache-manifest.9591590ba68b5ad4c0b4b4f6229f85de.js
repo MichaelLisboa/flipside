@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6c05470b8efd944f8d05fbfc10f85438",
+    "revision": "1957e2a369afa409db8e54e5cf53a57f",
     "url": "/flipside/index.html"
   },
   {
-    "revision": "79646d373e95f913afe0",
+    "revision": "5ce0ad23a6f08a6cfe54",
     "url": "/flipside/static/css/main.0a53ac3d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/flipside/static/js/2.72de4b6c.chunk.js"
   },
   {
-    "revision": "79646d373e95f913afe0",
-    "url": "/flipside/static/js/main.21db1303.chunk.js"
+    "revision": "5ce0ad23a6f08a6cfe54",
+    "url": "/flipside/static/js/main.fb135a84.chunk.js"
   },
   {
     "revision": "8e86d1c34ed13c44ba9f",
