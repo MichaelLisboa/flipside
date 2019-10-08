@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a853349881412d98abc9e93ce6f6f24a",
+    "revision": "104178f1bee1f7e47eb8d86f0843ef6c",
     "url": "/flipside/index.html"
   },
   {
-    "revision": "0e7300a041409200ab82",
-    "url": "/flipside/static/css/main.0a53ac3d.chunk.css"
+    "revision": "be6307340d81fd60ceb4",
+    "url": "/flipside/static/css/main.d9084c21.chunk.css"
   },
   {
     "revision": "f608094511d4a40cac58",
     "url": "/flipside/static/js/2.72de4b6c.chunk.js"
   },
   {
-    "revision": "0e7300a041409200ab82",
-    "url": "/flipside/static/js/main.23422da2.chunk.js"
+    "revision": "be6307340d81fd60ceb4",
+    "url": "/flipside/static/js/main.010f1e1a.chunk.js"
   },
   {
     "revision": "8e86d1c34ed13c44ba9f",
