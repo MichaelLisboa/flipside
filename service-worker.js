@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/flipside/precache-manifest.744e2bb1ee0eb6ecc53493d6ade54565.js"
+  "/flipside/precache-manifest.def186506cb103fe1e786652e79f9bbe.js"
 );
 
 self.addEventListener('message', (event) => {
