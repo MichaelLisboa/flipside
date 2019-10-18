@@ -1,9 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
 .nav {
   position: absolute;
-  top: 15px;
+  top: 0;
   z-index: 99;
   left: 0;
   right: 0;
+  height: 45px;
 }
 
 .uk-sticky-placeholder {
@@ -19,6 +24,10 @@
   content: '';
   z-index: 1;
   /* background-color: rgba(0,0,0,0.5); */
+}
+
+.uk-card {
+  background-color: rgba(255, 255, 255, 0.25) !important;
 }
 
 .big-message-dark {

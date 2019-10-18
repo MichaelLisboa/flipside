@@ -17,6 +17,7 @@ export default function App() {
         from: { opacity: 0, transform: 'translate3d(0, 80vh, 0)' },
         enter: { opacity: 1, transform: 'translate3d(0, 0, 0)' },
         leave: { opacity: 0, transform: 'translate3d(0, -50vh, 0)' },
+        config: { duration: 300, mass: 1, tension: 500, friction: 25 },
 	});
 
     return transitions.map(({item, props, key}) => (
@@ -27,14 +28,4 @@ export default function App() {
             </Switch>
         </animated.div>
     )
-)}
-//
-// function App() {
-//   return (
-//     <>
-//
-//     </>
-//   );
-// }
-//
-// export default App;
+)};
