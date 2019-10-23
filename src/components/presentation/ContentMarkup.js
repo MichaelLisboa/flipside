@@ -12,7 +12,7 @@ const ContentMarkup = props =>
                         <div className="support-copy uk-flex uk-flex-middle uk-padding-large" data-uk-scrollspy="target: div > *; cls: uk-animation-slide-bottom-small; delay: 350">
                             <div>
                                 <p>People over 50 hold 80% of the wealth and 70% of the income in the United States but are the target of only 5% of marketing spend</p>
-                                <p>What's more, they are starting life all over again</p>
+                                <p>What's more they are starting life all over again</p>
                                 <p>If you want to be a first mover, if you want to find out how your brand can be the first choice for the wealthiest and most dynamic demographic in America contact us at:</p>
                                 <p className="uk-text-center">
                                     <a href="mailto:chris@flipside.global?subject=Contact from Flipside web site">chris@flipside.global</a> <br />
